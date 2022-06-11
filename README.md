@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently learning Front end 
+I'm currently learning Front end.
 I'm looking for help with designing and documenting websites. 
 I'm currently learning html , css , js.
 Ask me about front end website.
